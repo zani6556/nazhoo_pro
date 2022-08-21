@@ -1,0 +1,82 @@
+[
+  {
+    "product_name": "چیپس سرکه‌ای چی توز",
+    "id": 1,
+    "price": 10000,
+    "image_url ": "https://images.app.goo.gl/LieZmLcCb8yayjaw5",
+    "off": false,
+    "description": "چیپس سیب زمینی با طعم سرکه و سایز بزرگ "
+  },
+  {
+    "product_name ": "چیپس ساده نمکی چی توز",
+    "id": 2,
+    "price": 10000,
+    "image_url ": "https://images.app.goo.gl/whe18gxkVnDqiUtQ8",
+    "off": false,
+    "description": "چیپس سیب زمینی باطعم نمک و سایز بزرگ"
+  },
+  {
+    "product_name": "چیپس فلفلی چی توز",
+    "id": 3,
+    "price": 10000,
+    "image_url ": "https://images.app.goo.gl/ufwK3MUvqtJWjhBv5",
+    "off": true,
+    "description": "چیپس سیب زمینی با طعم فلفل قرمز و سایز بزرگ"
+  },
+  {
+    "product_name ": "چیپس کچاپ چی توز",
+    "id": 4,
+    "price": 10000,
+    "image_url ": "https://images.app.goo.gl/JhXm6cAjnaJE6TBLA",
+    "off": true,
+    "description": "چیپس سیب زمینی با طعم کچاپ و سایز بزرگ "
+  },
+  {
+    "product_name ": "چیپس قارچ و خامه چی توز",
+    "id": 5,
+    "price": 10000,
+    "image_url ": "https://images.app.goo.gl/9rfvcmiKGebbzVdRA",
+    "off": true,
+    "description ": "چیپس سیب زمینی با طعم قارچ و خامه و سایز بزرگ "
+  },
+  {
+    "product_name ": "چیپس پنیر فرانسوی چی توز ",
+    "id": 6,
+    "price ": 10000,
+    "image_url ": "https://images.app.goo.gl/F2vz5BjQP7wGVwEV6",
+    "off": true,
+    "description ": "چیپس سیب زمینی با طعم پنیر فرانسوی و سایز بزرگ "
+  },
+  {
+    "product_name ": "",
+    "id": null,
+    "price ": null,
+    "image_url ": "",
+    "off": true,
+    "description ": ""
+  },
+  {
+    "product_name ": "چیپس لیمویی چی توز",
+    "id": 7,
+    "price ": 10000,
+    "image_url ": "https://images.app.goo.gl/R6CqdnJCR3Reb7Ki9",
+    "off": true,
+    "description ": "چیپس سیب زمینی با طعم لیمو و سایز بزرگ "
+  },
+  {
+    "product_name ": "چیپس پیاز و جعفری چی توز",
+    "id": 8,
+    "price ": 10000,
+    "image_url ": "https://images.app.goo.gl/ZHE6UKi7oV3H3GVx6",
+    "off": true,
+    "description ": "چیپس سیب زمینی با طعم پیاز و جعفری و سایز بزرگ"
+  },
+  {
+    "product_name ": "چیپس ماست و ریحان چی توز",
+    "id": 9,
+    "price ": 10000,
+    "image_url ": "https://images.app.goo.gl/34jixzaDeLTbSoGs8",
+    "off": true,
+    "description ": "چیپس سیب زمینی با طعم ماست و ریحان و سایز بزرگ "
+  }
+]
